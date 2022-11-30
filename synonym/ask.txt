@@ -1,0 +1,6 @@
+inquire
+interrogate
+query
+question
+request
+solicit

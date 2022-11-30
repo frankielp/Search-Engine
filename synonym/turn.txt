@@ -1,0 +1,8 @@
+revolve
+pivot
+twist
+rotate
+spin
+roll
+circle
+twirl

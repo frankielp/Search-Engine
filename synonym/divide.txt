@@ -1,0 +1,4 @@
+separate
+split
+partition
+segregate

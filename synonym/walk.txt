@@ -1,0 +1,8 @@
+stroll
+saunter
+amble
+march
+stride
+pace
+hike
+move

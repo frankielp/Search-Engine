@@ -1,0 +1,4 @@
+delicate
+breakable
+brittle
+flimsy

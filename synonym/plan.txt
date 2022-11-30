@@ -1,0 +1,4 @@
+Region
+Location
+Situation
+Position

@@ -1,0 +1,3 @@
+robber
+pickpocket
+bandit

@@ -1,0 +1,4 @@
+total
+tally
+combine
+count

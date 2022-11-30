@@ -1,0 +1,6 @@
+present
+donation
+contribution
+bequest
+endowment
+offering

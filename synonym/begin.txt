@@ -1,0 +1,4 @@
+start
+initiate
+commence
+activate

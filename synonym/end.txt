@@ -1,0 +1,6 @@
+complete
+conclude
+conclusion
+finish
+stop
+terminate

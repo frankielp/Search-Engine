@@ -1,0 +1,6 @@
+decade
+decimal
+spot
+ten
+tenfold
+x

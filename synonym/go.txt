@@ -1,0 +1,7 @@
+depart
+disappear
+exit
+fade
+leave
+move
+recede

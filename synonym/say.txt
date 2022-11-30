@@ -1,0 +1,12 @@
+state
+remark
+speak
+utter
+articulate
+declare
+cry
+shout
+recount
+narrate
+explain
+reveal

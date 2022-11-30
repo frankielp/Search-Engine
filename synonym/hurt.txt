@@ -1,0 +1,4 @@
+Damage
+Distress
+Afflict
+Pain

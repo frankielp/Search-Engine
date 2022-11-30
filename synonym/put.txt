@@ -1,0 +1,10 @@
+assign
+deposit
+establish
+keep
+lay
+locate
+place
+plant
+position
+set

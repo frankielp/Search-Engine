@@ -1,0 +1,6 @@
+forbid
+restrict
+ban
+bar
+exclude
+veto

@@ -1,0 +1,6 @@
+worth
+price
+cost
+charge
+rate
+assessment
